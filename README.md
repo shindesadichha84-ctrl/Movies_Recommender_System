@@ -77,7 +77,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/shindesadichha84-ctrl/movies-recommender-system.git
+git clone [https://github.com/shindesadichha84-ctrl/movies-recommender-system.git](https://github.com/shindesadichha84-ctrl/Movies_Recommender_System)
 Install dependencies:
 
 bash
